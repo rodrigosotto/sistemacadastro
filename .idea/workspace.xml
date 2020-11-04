@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4b74f26b-92e7-4e2c-9e0e-465428ad2dc8" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1jYWOJhR9wgGGh6PyMuOAYZ5pzI" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="editing.templates" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/view" />
+      <recent name="$PROJECT_DIR$/css" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/css" />
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4b74f26b-92e7-4e2c-9e0e-465428ad2dc8" name="Default Changelist" comment="" />
+      <created>1603981471607</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1603981471607</updated>
+      <workItem from="1603981472626" duration="16033000" />
+      <workItem from="1604063024041" duration="12000" />
+      <workItem from="1604337462060" duration="8776000" />
+      <workItem from="1604403466591" duration="4655000" />
+      <workItem from="1604408670193" duration="766000" />
+      <workItem from="1604411477185" duration="16641000" />
+      <workItem from="1604430518104" duration="1363000" />
+      <workItem from="1604431889027" duration="2010000" />
+      <workItem from="1604487208800" duration="610000" />
+      <workItem from="1604508466688" duration="9505000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="572" y="214" width="824" height="691" key="#CLI_Interpreters" timestamp="1604432275702">
+      <screen x="68" y="27" width="1852" height="1053" />
+    </state>
+    <state x="572" y="214" width="824" height="691" key="#CLI_Interpreters/68.27.1852.1053/1920.0.1920.1080@68.27.1852.1053" timestamp="1604432275702" />
+    <state x="639" y="177" width="700" height="759" key="#PHP" timestamp="1604432305143">
+      <screen x="68" y="27" width="1852" height="1053" />
+    </state>
+    <state x="639" y="177" width="700" height="759" key="#PHP/68.27.1852.1053/1920.0.1920.1080@68.27.1852.1053" timestamp="1604432305143" />
+    <state x="589" y="215" width="800" height="684" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1604432424302">
+      <screen x="68" y="27" width="1852" height="1053" />
+    </state>
+    <state x="589" y="215" width="800" height="684" key="#com.intellij.execution.impl.EditConfigurationsDialog/68.27.1852.1053/1920.0.1920.1080@68.27.1852.1053" timestamp="1604432424302" />
+    <state x="702" y="355" width="574" height="403" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1603995022733">
+      <screen x="68" y="27" width="1852" height="1053" />
+    </state>
+    <state x="702" y="355" width="574" height="403" key="#com.intellij.fileTypes.FileTypeChooser/68.27.1852.1053/1920.0.1920.1080@68.27.1852.1053" timestamp="1603995022733" />
+    <state x="727" y="302" width="524" height="509" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1604420193997">
+      <screen x="68" y="27" width="1852" height="1053" />
+    </state>
+    <state x="727" y="302" width="524" height="509" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/68.27.1852.1053/1920.0.1920.1080@68.27.1852.1053" timestamp="1604420193997" />
+    <state x="777" y="311" width="424" height="491" key="FileChooserDialogImpl" timestamp="1604492168141">
+      <screen x="68" y="27" width="1852" height="1053" />
+    </state>
+    <state x="777" y="311" width="424" height="491" key="FileChooserDialogImpl/68.27.1852.1053/1920.0.1920.1080@68.27.1852.1053" timestamp="1604492168141" />
+    <state width="1243" height="275" key="GridCell.Tab.0.bottom" timestamp="1604432497322">
+      <screen x="68" y="27" width="1852" height="1053" />
+    </state>
+    <state width="1243" height="275" key="GridCell.Tab.0.bottom/68.27.1852.1053/1920.0.1920.1080@68.27.1852.1053" timestamp="1604432497322" />
+    <state width="1243" height="275" key="GridCell.Tab.0.center" timestamp="1604432497322">
+      <screen x="68" y="27" width="1852" height="1053" />
+    </state>
+    <state width="1243" height="275" key="GridCell.Tab.0.center/68.27.1852.1053/1920.0.1920.1080@68.27.1852.1053" timestamp="1604432497322" />
+    <state width="1243" height="275" key="GridCell.Tab.0.left" timestamp="1604432497322">
+      <screen x="68" y="27" width="1852" height="1053" />
+    </state>
+    <state width="1243" height="275" key="GridCell.Tab.0.left/68.27.1852.1053/1920.0.1920.1080@68.27.1852.1053" timestamp="1604432497322" />
+    <state width="1243" height="275" key="GridCell.Tab.0.right" timestamp="1604432497322">
+      <screen x="68" y="27" width="1852" height="1053" />
+    </state>
+    <state width="1243" height="275" key="GridCell.Tab.0.right/68.27.1852.1053/1920.0.1920.1080@68.27.1852.1053" timestamp="1604432497322" />
+    <state width="263" height="500" key="HiddenNamespacesPopup" timestamp="1604432405696">
+      <screen x="68" y="27" width="1852" height="1053" />
+    </state>
+    <state width="263" height="500" key="HiddenNamespacesPopup/68.27.1852.1053/1920.0.1920.1080@68.27.1852.1053" timestamp="1604432405696" />
+    <state x="789" y="479" width="399" height="156" key="NewPhpFileDialog" timestamp="1604424862017">
+      <screen x="68" y="27" width="1852" height="1053" />
+    </state>
+    <state x="789" y="479" width="399" height="156" key="NewPhpFileDialog/68.27.1852.1053/1920.0.1920.1080@68.27.1852.1053" timestamp="1604424862017" />
+    <state x="497" y="108" width="1232" height="737" key="SettingsEditor" timestamp="1604511540449">
+      <screen x="68" y="27" width="1852" height="1053" />
+    </state>
+    <state x="497" y="108" width="1232" height="737" key="SettingsEditor/68.27.1852.1053/1920.0.1920.1080@68.27.1852.1053" timestamp="1604511540449" />
+    <state x="168" y="127" width="1652" height="853" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1604512362795">
+      <screen x="68" y="27" width="1852" height="1053" />
+    </state>
+    <state x="168" y="127" width="1652" height="853" key="com.intellij.history.integration.ui.views.FileHistoryDialog/68.27.1852.1053/1920.0.1920.1080@68.27.1852.1053" timestamp="1604512362795" />
+    <state x="191" y="169" width="1717" height="959" key="dock-window-1" timestamp="1604512803408">
+      <screen x="68" y="27" width="1852" height="1053" />
+    </state>
+    <state x="191" y="169" width="1717" height="959" key="dock-window-1/68.27.1852.1053/1920.0.1920.1080@68.27.1852.1053" timestamp="1604512803408" />
+    <state x="685" y="118" width="618" height="870" key="find.popup" timestamp="1604416280605">
+      <screen x="68" y="27" width="1852" height="1053" />
+    </state>
+    <state x="685" y="118" width="618" height="870" key="find.popup/68.27.1852.1053/1920.0.1920.1080@68.27.1852.1053" timestamp="1604416280605" />
+    <state x="657" y="259" width="672" height="678" key="search.everywhere.popup" timestamp="1604511530893">
+      <screen x="68" y="27" width="1852" height="1053" />
+    </state>
+    <state x="657" y="259" width="672" height="678" key="search.everywhere.popup/68.27.1852.1053/1920.0.1920.1080@68.27.1852.1053" timestamp="1604511530893" />
+  </component>
+</project>

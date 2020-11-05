@@ -1,7 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="4b74f26b-92e7-4e2c-9e0e-465428ad2dc8" name="Default Changelist" comment="" />
+    <list default="true" id="4b74f26b-92e7-4e2c-9e0e-465428ad2dc8" name="Default Changelist" comment="Criar cadastro de produtos, criar listar produtos, ajustar layout">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/conexao_db.php" beforeDir="false" afterPath="$PROJECT_DIR$/conexao_db.php" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -17,6 +38,9 @@
         <option value="CSS File" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1jYWOJhR9wgGGh6PyMuOAYZ5pzI" />
   <component name="ProjectViewState">
@@ -68,11 +92,35 @@
       <workItem from="1604431889027" duration="2010000" />
       <workItem from="1604487208800" duration="610000" />
       <workItem from="1604508466688" duration="9995000" />
+      <workItem from="1604583364872" duration="16278000" />
     </task>
+    <task id="LOCAL-00001" summary="Criar cadastro de produtos, criar listar produtos, ajustar layout">
+      <created>1604606130610</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1604606130610</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Criar cadastro de produtos, criar listar produtos, ajustar layout" />
+    <option name="LAST_COMMIT_MESSAGE" value="Criar cadastro de produtos, criar listar produtos, ajustar layout" />
   </component>
   <component name="WindowStateProjectService">
     <state x="572" y="214" width="824" height="691" key="#CLI_Interpreters" timestamp="1604432275702">
@@ -119,22 +167,22 @@
       <screen x="68" y="27" width="1852" height="1053" />
     </state>
     <state width="263" height="500" key="HiddenNamespacesPopup/68.27.1852.1053/1920.0.1920.1080@68.27.1852.1053" timestamp="1604432405696" />
-    <state x="789" y="479" width="399" height="156" key="NewPhpFileDialog" timestamp="1604424862017">
+    <state x="789" y="479" width="399" height="156" key="NewPhpFileDialog" timestamp="1604602236184">
       <screen x="68" y="27" width="1852" height="1053" />
     </state>
-    <state x="789" y="479" width="399" height="156" key="NewPhpFileDialog/68.27.1852.1053/1920.0.1920.1080@68.27.1852.1053" timestamp="1604424862017" />
+    <state x="789" y="479" width="399" height="156" key="NewPhpFileDialog/68.27.1852.1053/1920.0.1920.1080@68.27.1852.1053" timestamp="1604602236184" />
     <state x="497" y="108" width="1232" height="737" key="SettingsEditor" timestamp="1604511540449">
       <screen x="68" y="27" width="1852" height="1053" />
     </state>
     <state x="497" y="108" width="1232" height="737" key="SettingsEditor/68.27.1852.1053/1920.0.1920.1080@68.27.1852.1053" timestamp="1604511540449" />
-    <state x="168" y="127" width="1652" height="853" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1604512362795">
+    <state x="168" y="127" width="1652" height="853" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1604598472489">
       <screen x="68" y="27" width="1852" height="1053" />
     </state>
-    <state x="168" y="127" width="1652" height="853" key="com.intellij.history.integration.ui.views.FileHistoryDialog/68.27.1852.1053/1920.0.1920.1080@68.27.1852.1053" timestamp="1604512362795" />
-    <state x="191" y="169" width="1717" height="959" key="dock-window-1" timestamp="1604512803408">
-      <screen x="68" y="27" width="1852" height="1053" />
+    <state x="168" y="127" width="1652" height="853" key="com.intellij.history.integration.ui.views.FileHistoryDialog/68.27.1852.1053/1920.0.1920.1080@68.27.1852.1053" timestamp="1604598472489" />
+    <state x="1753" y="122" width="1545" height="1009" key="dock-window-1" timestamp="1604593197474">
+      <screen x="1920" y="0" width="1920" height="1080" />
     </state>
-    <state x="191" y="169" width="1717" height="959" key="dock-window-1/68.27.1852.1053/1920.0.1920.1080@68.27.1852.1053" timestamp="1604512803408" />
+    <state x="1753" y="122" width="1545" height="1009" key="dock-window-1/68.27.1852.1053/1920.0.1920.1080@68.27.1852.1053" timestamp="1604593197474" />
     <state x="685" y="118" width="618" height="870" key="find.popup" timestamp="1604416280605">
       <screen x="68" y="27" width="1852" height="1053" />
     </state>

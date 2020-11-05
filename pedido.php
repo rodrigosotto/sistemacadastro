@@ -19,9 +19,9 @@
         </div>
         <div class="form-group">
             <label for="obsProduto">Observações</label>
-            <textarea class="form-control" id="obsProduto" name="obsProduto" rows="10"></textarea>
+            <textarea class="form-control-plaintext" id="obsProduto" name="obsProduto" rows="10"></textarea>
         </div>
-        <input type="submit" class="btn btn-primary" value="Adicionar itens"/>
+        <input type="submit" class="btn btn-primary" value="Adicionar produto"/>
         <?php if (isset($inseridoSucesso)) : ?>
             <div class="alert alert-success <?= $inseridoSucesso["style"] ?>">
                 <?php echo $inseridoSucesso["msg"]; ?>

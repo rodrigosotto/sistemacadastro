@@ -1,22 +1,21 @@
 <?php require ('header.php'); ?>
-<div class="content">
-
+<div class="container">
 <div class="row">
     <div class="col-sm-6">
         <div class="card">
             <div class="card-body">
-                <h5 class="card-title">Pedido</h5>
-                <p class="card-text">With supporting text below as a natural lead-in to additional content.</p>
-                <a href="./pedido.php" class="btn btn-primary">Pedidos</a>
+                <h5 class="card-title">Fazer Pedido</h5>
+                <p class="card-text">Neste modúlo você poderá fazer pedidos, por itens!</p><br>
+                <a href="./pedido.php" class="btn btn-primary">Entrar</a>
             </div>
         </div>
     </div>
     <div class="col-sm-6">
         <div class="card">
             <div class="card-body">
-                <h5 class="card-title">Relátórios</h5>
-                <p class="card-text">With supporting text below as a natural lead-in to additional content.</p>
-                <a href="#" class="btn btn-primary">Go somewhere</a>
+                <h5 class="card-title">Produtos</h5>
+                <p class="card-text">Imprimir lista de produtos, inserir produtos, editar produtos e excluir produtos. </p>
+                <a href="./produto.php" class="btn btn-primary">Entrar</a>
             </div>
         </div>
     </div>

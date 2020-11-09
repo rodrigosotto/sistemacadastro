@@ -5,7 +5,7 @@ if (count($_POST > 0)) {
     $nomeProduto = $_POST["nomeProduto"];
     $categoriaProduto = $_POST["categoriaProduto"];
     $valorProduto = $_POST["valorProduto"];
-    $fotoProduto = $_FILES["fotoProduto"];
+    $fotoProduto = $_POST["fotoProduto"]["name"];
     $infoProduto = $_POST["infoProduto"];
 
 //TODO pegar o codigo do usuario logado
@@ -16,6 +16,7 @@ if (count($_POST > 0)) {
         $cadastraProduto = "INSERT INTO produto ( nome, categoria, valor, foto, info_adicional, codigo_usuario) VALUES (?,?,?,?,?,?)"; //cada interrogação representa uma coluna na tabela
         $stmt = $conn->prepare($cadastraProduto);
         $stmt->execute([$nomeProduto, $categoriaProduto, str_replace(",", ".", $valorProduto), $fotoProduto, $infoProduto, null]);
+
 
         //Mensagens de inserção com sucesso
         $inseridoSucesso["msg"] = "produto cadastrado com sucesso";

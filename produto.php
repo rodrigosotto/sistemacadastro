@@ -26,42 +26,13 @@
                 <textarea class="form-control-plaintext" id="infoProduto" name="infoProduto" rows="4"></textarea>
             </div>
             <input type="submit" class="btn btn-primary" value="Adicionar itens"/>
+            <a href="./dashboard.php" class="btn btn-info" role="button">Voltar para dashboard</a>
             <?php if (isset($inseridoSucesso)) : ?>
                 <div class="alert alert-success <?= $inseridoSucesso["style"] ?>">
                     <?php echo $inseridoSucesso["msg"]; ?>
                 </div>
             <?php endif; ?>
         </form>
-
-<div class="table-responsive-sm table-list-products">
-
-    <h1 class="text-center text-black-50">Lista de Produtos Cadastrados</h1>
-
-    <table class="table">
-            <tr>
-                <th>Cód.</th>
-                <th>Foto</th>
-                <th>Nome</th>
-                <th>Categoria</th>
-                <th>Valor</th>
-                <th>Info Adicional</th>
-                <th>Data e Hora</th>
-            </tr>
-
-        <?php foreach ($produtos as $produto): ?>
-
-            <tr>
-                <th><?php $produto["codigo"]; ?></th>
-                <th><?php $produto["foto"]; ?></th>
-                <th><?php $produto["nome"]; ?></th>
-                <th><?php $produto["categoria"]; ?></th>
-                <th><?php $produto["valor"]; ?></th>
-                <th><?php $produto["info_adicional"]; ?></th>
-                <th><?php $produto["data_hora"]; ?></th>
-            </tr>
-            <?php endforeach; ?>
-        </table>
-</div>
 
     </div>
 

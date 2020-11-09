@@ -4,7 +4,7 @@
     <div class="col-sm-6">
         <div class="card">
             <div class="card-body">
-                <h5 class="card-title">Fazer Pedido</h5>
+                <h5 class="card-title">Fazer um Pedido</h5>
                 <p class="card-text">Neste modúlo você poderá fazer pedidos, por itens!</p><br>
                 <a href="./pedido.php" class="btn btn-primary">Entrar</a>
             </div>
@@ -13,7 +13,7 @@
     <div class="col-sm-6">
         <div class="card">
             <div class="card-body">
-                <h5 class="card-title">Produtos</h5>
+                <h5 class="card-title">Cadastrar Produtos</h5>
                 <p class="card-text">Imprimir lista de produtos, inserir produtos, editar produtos e excluir produtos. </p>
                 <a href="./produto.php" class="btn btn-primary">Entrar</a>
             </div>
@@ -24,9 +24,9 @@
     <div class="col-sm-6">
         <div class="card">
             <div class="card-body">
-                <h5 class="card-title">Usuários</h5>
+                <h5 class="card-title">Listar Produtos</h5>
                 <p class="card-text">With supporting text below as a natural lead-in to additional content.</p>
-                <a href="#" class="btn btn-primary">Go somewhere</a>
+                <a href="./listaProdutos.php" class="btn btn-primary">Go somewhere</a>
             </div>
         </div>
     </div>

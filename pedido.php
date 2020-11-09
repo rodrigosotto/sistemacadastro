@@ -22,6 +22,7 @@
             <textarea class="form-control-plaintext" id="obsProduto" name="obsProduto" rows="10"></textarea>
         </div>
         <input type="submit" class="btn btn-primary" value="Adicionar produto"/>
+        <a href="./dashboard.php" class="btn btn-info" role="button">Voltar para dashboard</a>
         <?php if (isset($inseridoSucesso)) : ?>
             <div class="alert alert-success <?= $inseridoSucesso["style"] ?>">
                 <?php echo $inseridoSucesso["msg"]; ?>

@@ -14,7 +14,7 @@ try {
     $inseridoSucesso["style"] = "alert-danger";
 
 }
-print_r($produtos); exit();
+
 $conn = null;
 
 ?>

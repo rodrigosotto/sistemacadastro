@@ -22,6 +22,7 @@
     <list default="true" id="4b74f26b-92e7-4e2c-9e0e-465428ad2dc8" name="Default Changelist" comment="Criar cadastro de produtos, criar listar produtos, ajustar layout">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/conexao_db.php" beforeDir="false" afterPath="$PROJECT_DIR$/conexao_db.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dashboard.php" beforeDir="false" afterPath="$PROJECT_DIR$/dashboard.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,6 +49,7 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="DatabaseDriversLRU" value="mysql" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
@@ -93,6 +95,7 @@
       <workItem from="1604487208800" duration="610000" />
       <workItem from="1604508466688" duration="9995000" />
       <workItem from="1604583364872" duration="16278000" />
+      <workItem from="1605016745873" duration="861000" />
     </task>
     <task id="LOCAL-00001" summary="Criar cadastro de produtos, criar listar produtos, ajustar layout">
       <created>1604606130610</created>
@@ -117,6 +120,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Criar cadastro de produtos, criar listar produtos, ajustar layout" />

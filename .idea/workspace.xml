@@ -19,9 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4b74f26b-92e7-4e2c-9e0e-465428ad2dc8" name="Default Changelist" comment="Ajustar arquivos que não serão versionados">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="4b74f26b-92e7-4e2c-9e0e-465428ad2dc8" name="Default Changelist" comment="Ajustar commit anterior">
       <change beforePath="$PROJECT_DIR$/conexao_db.php" beforeDir="false" afterPath="$PROJECT_DIR$/conexao_db.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />

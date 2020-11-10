@@ -19,10 +19,9 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4b74f26b-92e7-4e2c-9e0e-465428ad2dc8" name="Default Changelist" comment="Criar cadastro de produtos, criar listar produtos, ajustar layout">
+    <list default="true" id="4b74f26b-92e7-4e2c-9e0e-465428ad2dc8" name="Default Changelist" comment="Alterar dados do arquivo de conexao">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/conexao_db.php" beforeDir="false" afterPath="$PROJECT_DIR$/conexao_db.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dashboard.php" beforeDir="false" afterPath="$PROJECT_DIR$/dashboard.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -95,7 +94,7 @@
       <workItem from="1604487208800" duration="610000" />
       <workItem from="1604508466688" duration="9995000" />
       <workItem from="1604583364872" duration="16278000" />
-      <workItem from="1605016745873" duration="861000" />
+      <workItem from="1605016745873" duration="1130000" />
     </task>
     <task id="LOCAL-00001" summary="Criar cadastro de produtos, criar listar produtos, ajustar layout">
       <created>1604606130610</created>
@@ -104,7 +103,14 @@
       <option name="project" value="LOCAL" />
       <updated>1604606130610</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Alterar dados do arquivo de conexao">
+      <created>1605017778417</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1605017778417</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -124,7 +130,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Criar cadastro de produtos, criar listar produtos, ajustar layout" />
-    <option name="LAST_COMMIT_MESSAGE" value="Criar cadastro de produtos, criar listar produtos, ajustar layout" />
+    <MESSAGE value="Alterar dados do arquivo de conexao" />
+    <option name="LAST_COMMIT_MESSAGE" value="Alterar dados do arquivo de conexao" />
   </component>
   <component name="WindowStateProjectService">
     <state x="572" y="214" width="824" height="691" key="#CLI_Interpreters" timestamp="1604432275702">
@@ -139,10 +146,10 @@
       <screen x="68" y="27" width="1852" height="1053" />
     </state>
     <state x="589" y="215" width="800" height="684" key="#com.intellij.execution.impl.EditConfigurationsDialog/68.27.1852.1053/1920.0.1920.1080@68.27.1852.1053" timestamp="1604432424302" />
-    <state x="702" y="355" width="574" height="403" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1603995022733">
+    <state x="702" y="355" width="594" height="410" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1605017892150">
       <screen x="68" y="27" width="1852" height="1053" />
     </state>
-    <state x="702" y="355" width="574" height="403" key="#com.intellij.fileTypes.FileTypeChooser/68.27.1852.1053/1920.0.1920.1080@68.27.1852.1053" timestamp="1603995022733" />
+    <state x="702" y="355" width="594" height="410" key="#com.intellij.fileTypes.FileTypeChooser/68.27.1852.1053/1920.0.1920.1080@68.27.1852.1053" timestamp="1605017892150" />
     <state x="727" y="302" width="524" height="509" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1604420193997">
       <screen x="68" y="27" width="1852" height="1053" />
     </state>
@@ -179,6 +186,10 @@
       <screen x="68" y="27" width="1852" height="1053" />
     </state>
     <state x="497" y="108" width="1232" height="737" key="SettingsEditor/68.27.1852.1053/1920.0.1920.1080@68.27.1852.1053" timestamp="1604511540449" />
+    <state x="589" y="289" width="800" height="535" key="Vcs.Push.Dialog.v2" timestamp="1605017785500">
+      <screen x="68" y="27" width="1852" height="1053" />
+    </state>
+    <state x="589" y="289" width="800" height="535" key="Vcs.Push.Dialog.v2/68.27.1852.1053/1920.0.1920.1080@68.27.1852.1053" timestamp="1605017785500" />
     <state x="168" y="127" width="1652" height="853" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1604598472489">
       <screen x="68" y="27" width="1852" height="1053" />
     </state>

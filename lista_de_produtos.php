@@ -28,18 +28,26 @@
                 <th><?php echo $p["valor"]; ?></th>
                 <th><?php echo $p["info_adicional"]; ?></th>
                 <th><?php echo $p["data_hora"]; ?></th>
-                <th><a class="btn-danger btn-sm"
-                       onclick="return confirm('Deseja remover <?php echo $p['nome']; ?> ?')" href="remover_produto.php?cod_prod=<?= $p["codigo"]; ?>" >Deletar</a> <a class="btn-warning btn-sm">Editar</a></th>
+                <th>
+                
+                <a class="btn-danger btn-sm"
+                       onclick="return confirm('Deseja remover <?php echo $p['nome']; ?> ?')" href="remover_produto.php?cod_prod=<?= $p['codigo']; ?>" >Deletar</a> <a class="btn-warning btn-sm">Editar</a></th>
             </tr>
 
         <?php endforeach; ?>
+
         <?php }else { ?>
             <div class="alert-danger p-5">
             <h1 class="text-center text-black-50">Nenhum Produto Cadastrado</h1>
             <p class="text-center text-black-50">para cadastrar um novo produto clique no botão abaixo</p><br>
             </div>
         <?php } ?>
-
+       <!--MOSTRA MENSAGEM SE FOI OU NAO REMOVIDO  COM SUCESSO-->
+        <?php if (isset($removidoSucesso)) : ?>
+                <div class="alert alert-success <?= $removidoSucesso["style"] ?>">
+                    <?php echo $removidoSucesso["msg"]; ?>
+                </div>
+                <?php endif; ?>
 
     </table>
     <div class="text-center p-3">

@@ -17,13 +17,16 @@
                 <label for="valorProduto">Valor unitário (R$)</label>
                 <input type="text" name="valorProduto" class="form-control" id="valorProduto">
             </div>
-            <div class="form-group">
+            <!-- <div class="form-check">
+                <input type="checkbox" class="form-check-input" id="situacao" name="situacao" value="on">
+                <label class="form-check-label" for="situacao">HABILITADO</label> -->
+            <div class="form-group mt-3">
                 <label for="fotoProduto">Enviar Foto do Produto</label>
                 <input type="file" name="fotoProduto" class="form-control-file" id="fotoProduto" placeholder="envie uma foto com no maximo 1MB de tamanho">
             </div>
             <div class="form-group">
                 <label for="infoProduto">Informações adicionais</label>
-                <textarea class="form-control-plaintext" id="infoProduto" name="infoProduto" rows="4"></textarea>
+                <textarea class="form-control-plaintext border" id="infoProduto" name="infoProduto" rows="4"></textarea>
             </div>
             <input type="submit" class="btn btn-primary" value="Adicionar itens"/>
             <a href="./dashboard.php" class="btn btn-info" role="button">Voltar para dashboard</a>

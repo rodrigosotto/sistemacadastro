@@ -19,8 +19,11 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4b74f26b-92e7-4e2c-9e0e-465428ad2dc8" name="Default Changelist" comment="Ajustar commit anterior">
+    <list default="true" id="4b74f26b-92e7-4e2c-9e0e-465428ad2dc8" name="Default Changelist" comment="criar arquivo remover produtos">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/conexao_db.php" beforeDir="false" afterPath="$PROJECT_DIR$/conexao_db.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/header.php" beforeDir="false" afterPath="$PROJECT_DIR$/header.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lista_de_produtos.php" beforeDir="false" afterPath="$PROJECT_DIR$/lista_de_produtos.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,15 +41,22 @@
       </list>
     </option>
   </component>
+  <component name="Git.Pull.Settings">
+    <option name="BRANCH" value="main" />
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1jYWOJhR9wgGGh6PyMuOAYZ5pzI" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="DatabaseDriversLRU" value="mysql" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
@@ -94,6 +104,7 @@
       <workItem from="1604508466688" duration="9995000" />
       <workItem from="1604583364872" duration="16278000" />
       <workItem from="1605016745873" duration="1278000" />
+      <workItem from="1605114810115" duration="112000" />
     </task>
     <task id="LOCAL-00001" summary="Criar cadastro de produtos, criar listar produtos, ajustar layout">
       <created>1604606130610</created>
@@ -185,10 +196,10 @@
       <screen x="68" y="27" width="1852" height="1053" />
     </state>
     <state width="263" height="500" key="HiddenNamespacesPopup/68.27.1852.1053/1920.0.1920.1080@68.27.1852.1053" timestamp="1604432405696" />
-    <state x="789" y="479" width="399" height="156" key="NewPhpFileDialog" timestamp="1604602236184">
+    <state x="789" y="479" width="399" height="156" key="NewPhpFileDialog" timestamp="1605114820999">
       <screen x="68" y="27" width="1852" height="1053" />
     </state>
-    <state x="789" y="479" width="399" height="156" key="NewPhpFileDialog/68.27.1852.1053/1920.0.1920.1080@68.27.1852.1053" timestamp="1604602236184" />
+    <state x="789" y="479" width="399" height="156" key="NewPhpFileDialog/68.27.1852.1053/1920.0.1920.1080@68.27.1852.1053" timestamp="1605114820999" />
     <state x="497" y="108" width="1232" height="737" key="SettingsEditor" timestamp="1604511540449">
       <screen x="68" y="27" width="1852" height="1053" />
     </state>

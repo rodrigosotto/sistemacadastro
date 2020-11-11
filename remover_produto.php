@@ -9,8 +9,8 @@ if (count($_POST > 0)) {
         include("conexao_db.php");
 
         //update PRODUTOS NO BANCO DE DADOS
-        $updateProduto = "UPDATE produto SET situacao = 'DESABILITADO' WHERE codigo = ?";
-        $stmt = $conn->prepare($updateProduto);
+        $updateProduto = $conn->prepare("UPDATE produto SET situacao = 'DESABILITADO' WHERE codigo = ?");
+        // $stmt = $conn->prepare($updateProduto);
         $stmt->execute([$cod_prod]);
 
 

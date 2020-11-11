@@ -26,7 +26,7 @@
             <div class="card-body">
                 <h5 class="card-title">Listar Produtos</h5>
                 <p class="card-text">Nunc vitae velit a justo dignissim ornare vitae non sem. Fusce non ultricies purus. </p>
-                <a href="./listaProdutos.php" class="btn btn-primary">Go somewhere</a>
+                <a href="./lista_de_produtos.php" class="btn btn-primary">Go somewhere</a>
             </div>
         </div>
     </div>

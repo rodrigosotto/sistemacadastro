@@ -28,11 +28,11 @@
                 <th><?php echo $p["valor"]; ?></th>
                 <th><?php echo $p["info_adicional"]; ?></th>
                 <th><?php echo $p["data_hora"]; ?></th>
-                <th><button class="btn-danger btn-sm" onclick="return confirm('produto removido')">Deletar</button> <button class="btn-warning btn-sm">Editar</button></th>
+                <th><a class="btn-danger btn-sm"
+                       onclick="return confirm('Deseja remover <?php echo $p['nome']; ?> ?')" href="remover_produto.php?cod_prod=<?= $p["codigo"]; ?>" >Deletar</a> <a class="btn-warning btn-sm">Editar</a></th>
             </tr>
 
         <?php endforeach; ?>
-
         <?php }else { ?>
             <div class="alert-danger p-5">
             <h1 class="text-center text-black-50">Nenhum Produto Cadastrado</h1>

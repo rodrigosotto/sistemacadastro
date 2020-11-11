@@ -5,7 +5,7 @@ if (count($_POST > 0)) {
     $nomeProduto = $_POST["nomeProduto"];
     $categoriaProduto = $_POST["categoriaProduto"];
     $valorProduto = $_POST["valorProduto"];
-    $fotoProduto = $_POST["fotoProduto"]["name"];
+    $fotoProduto = $_POST["fotoProduto"];
     $infoProduto = $_POST["infoProduto"];
 
 //TODO pegar o codigo do usuario logado
@@ -29,6 +29,8 @@ if (count($_POST > 0)) {
         $inseridoSucesso["style"] = "alert-danger";
     }
     $conn = null;
+
+    print_r($_POST);exit();
 }
 
 include("produto.php");

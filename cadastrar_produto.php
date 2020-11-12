@@ -1,12 +1,11 @@
 <?php
 
-if (count($_POST > 0) AND (isset($_POST['situacao']))) {
+if (count($_POST > 0)) {
     //1 pegar valores do formulário input
     $nomeProduto = $_POST["nomeProduto"];
     $categoriaProduto = $_POST["categoriaProduto"];
     $valorProduto = $_POST["valorProduto"];
-    // $situacao = $_POST["situacao"];
-    $fotoProduto = $_FILES["fotoProduto"]["name"];
+    $fotoProduto = $_FILES["fotoProduto"];
     $infoProduto = $_POST["infoProduto"];
 
 //TODO pegar o codigo do usuario logado
@@ -14,7 +13,7 @@ if (count($_POST > 0) AND (isset($_POST['situacao']))) {
         include("conexao_db.php");
 
         //INSERT PRODUTOS NO BANCO DE DADOS
-        $cadastraProduto = "INSERT INTO produto ( nome, categoria, valor, foto, info_adicional, situacao, codigo_usuario) VALUES (?,?,?,?,?,?,?)"; //cada interrogação representa uma coluna na tabela
+        $cadastraProduto = "INSERT INTO produto ( nome, categoria, valor, foto, info_adicional, codigo_usuario) VALUES (?,?,?,?,?,?)"; //cada interrogação representa uma coluna na tabela
         $stmt = $conn->prepare($cadastraProduto);
         $stmt->execute([$nomeProduto, $categoriaProduto, str_replace(",", ".", $valorProduto), $fotoProduto, $infoProduto, null]);
 
@@ -29,6 +28,7 @@ if (count($_POST > 0) AND (isset($_POST['situacao']))) {
         $inseridoSucesso["cod"] = 0;
         $inseridoSucesso["style"] = "alert-danger";
     }
+
     $conn = null;
 }
 

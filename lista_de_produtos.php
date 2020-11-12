@@ -29,9 +29,9 @@
                 <th><?php echo $p["info_adicional"]; ?></th>
                 <th><?php echo $p["data_hora"]; ?></th>
                 <th>
-                
                 <a class="btn-danger btn-sm"
-                       onclick="return confirm('Deseja remover <?php echo $p['nome']; ?> ?')" href="remover_produto.php?cod_prod=<?= $p['codigo']; ?>" >Deletar</a> <a class="btn-warning btn-sm">Editar</a></th>
+                       onclick="return confirm('Deseja remover <?php echo $p['nome']; ?> ?')"
+                   href="remover_produto.php?cod_prod=<?= $p['codigo']; ?>" >Deletar</a> <button class="btn-warning btn-sm">Editar</button></th>
             </tr>
 
         <?php endforeach; ?>

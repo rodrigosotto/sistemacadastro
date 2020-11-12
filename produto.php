@@ -23,6 +23,7 @@
             <div class="form-group mt-3">
                 <label for="fotoProduto">Enviar Foto do Produto</label>
                 <input type="file" name="fotoProduto" class="form-control-file" id="fotoProduto" placeholder="envie uma foto com no maximo 1MB de tamanho">
+
             </div>
             <div class="form-group">
                 <label for="infoProduto">Informações adicionais</label>
